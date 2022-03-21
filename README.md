@@ -5,7 +5,9 @@
 
 I'm a self-taught ❤️‍🔥 passionate 💻 web developer 
 
-**About me**
+<h2 align="left" id="about">About Me</h2>
+
+> My works
 
 
 - 💼 Engineer at [Swaptify Solutions Ltd](http://swaptify.com)
@@ -37,27 +39,31 @@ I'm a self-taught ❤️‍🔥 passionate 💻 web developer
       <br>Javascript
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="48" height="48" alt="react" />
+        <img src="./img/react-svgrepo-com.svg" width="48" height="48" alt="react" />
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/svelte.svg" width="48" height="48" alt="svelte" />
+        <img src="./img/svelte-svgrepo-com.svg" width="48" height="48" alt="svelte" />
       <br>Svelte
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="48" height="48" alt="php" />
+        <img src="./img/php-svgrepo-com.svg" width="48" height="48" alt="php" />
       <br>PHP
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="48" height="48" alt="mysql" />
+        <img src="./img/mysql-logo-svgrepo-com.svg" width="48" height="48" alt="mysql" />
       <br>Mysql
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="48" height="48" alt="git" />
+        <img src="./img/git-svgrepo-com.svg" width="48" height="48" alt="git" />
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="48" height="48" alt="github" style="color:white" />
+        <img src="./img/github-svgrepo-com.svg" width="48" height="48" alt="github" style="color:white" />
+      <br>Github
+    </td>
+     <td align="center" width="96">
+        <img src="./img/vscode-svgrepo-com.svg" width="48" height="48" alt="github" style="color:white" />
       <br>Github
     </td>
   </tr>
