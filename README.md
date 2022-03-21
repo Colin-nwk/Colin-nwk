@@ -1,9 +1,19 @@
 ### Hello there, I'm Collins! 👋
 
-
 <br />
 
 I'm a self-taught ❤️‍🔥 passionate 💻 web developer 
+
+<h2>Find me at</h2>
+📬 
+
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/colin-nwk/)](https://github.com/colin-nwk/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chibukenwoko/)](https://www.linkedin.com/in/chibukenwoko)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:collinsnwoko05@gmail.com)](mailto:collinsnwoko05@gmail.com)
+<!-- [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/collinsnwoko05)](https://www.hackerrank.com/collinsnwoko05) -->
+
+
+
 
 <h2 align="left" id="about">About Me</h2>
 
@@ -19,7 +29,6 @@ I'm a self-taught ❤️‍🔥 passionate 💻 web developer
 
 <img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colin-nwk&layout=compact"/>
 
-<h2 align="left" id="tools">Contact Me On</h2>
 
 
 <h2 align="left" id="tools">Favorite Tech</h2>
