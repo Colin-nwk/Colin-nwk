@@ -29,6 +29,8 @@ I'm a self-taught ❤️‍🔥 passionate 💻 web developer
 
 <img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colin-nwk&layout=compact&theme=highcontrast"/>
 
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=colin-nwk&theme=dark)](https://git.io/streak-stats) -->
+
 
 
 <h2 align="left" id="tools">Favorite Tech</h2>
