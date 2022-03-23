@@ -8,18 +8,18 @@ I'm a self-taught ❤️‍🔥 passionate 💻 web developer
 📬 
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/colin-nwk/)](https://github.com/colin-nwk/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chibukenwoko/)](https://www.linkedin.com/in/chibukenwoko)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chibuke-nwoko-b09294100/)](https://www.linkedin.com/in/chibuke-nwoko-b09294100)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:collinsnwoko05@gmail.com)](mailto:collinsnwoko05@gmail.com)
 <!-- [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/collinsnwoko05)](https://www.hackerrank.com/collinsnwoko05) -->
 
 
 
 
-<h2 align="left" id="about">About Me</h2>
+<!-- <h2 align="left" id="about">About Me</h2>
 
 > My works
 
-- 💼 Engineer at [Swaptify Solutions Ltd](http://swaptify.com)
+- 💼 Engineer at [Swaptify Solutions Ltd](http://swaptify.com) -->
 
 <h2 align="left" id="macropower-tech">Tech Stats</h2>
 
