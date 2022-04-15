@@ -3,6 +3,8 @@
 <br />
 
 I'm a self-taught ❤️‍🔥 passionate 💻 web developer 
+<br/>
+<img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/868?logoColor=white%26project=%26recentMS=604800000%26showProject=false" />
 
 <h2>Find me at</h2>
 📬 
