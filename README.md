@@ -4,7 +4,6 @@
 
 I'm a self-taught ❤️‍🔥 passionate 💻 web developer 
 <br/>
-<img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/868?logoColor=white%26project=%26recentMS=604800000%26showProject=false" />
 
 <h2>Find me at</h2>
 📬 
@@ -42,6 +41,22 @@ I'm a self-taught ❤️‍🔥 passionate 💻 web developer
 <table>
   <tr>
     <td align="center" width="96">
+        <img src="./img/react-svgrepo-com.svg" width="48" height="48" alt="react" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="./img/svelte-svgrepo-com.svg" width="48" height="48" alt="svelte" />
+      <br>Svelte
+    </td>
+    <td align="center" width="96">
+        <img src="./img/php-svgrepo-com.svg" width="48" height="48" alt="php" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+        <img src="./img/mysql-logo-svgrepo-com.svg" width="48" height="48" alt="mysql" />
+      <br>Mysql
+    </td>
+    <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
@@ -65,22 +80,7 @@ I'm a self-taught ❤️‍🔥 passionate 💻 web developer
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="48" height="48" alt="Javascript" />
       <br>Javascript
     </td>
-    <td align="center" width="96">
-        <img src="./img/react-svgrepo-com.svg" width="48" height="48" alt="react" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="./img/svelte-svgrepo-com.svg" width="48" height="48" alt="svelte" />
-      <br>Svelte
-    </td>
-    <td align="center" width="96">
-        <img src="./img/php-svgrepo-com.svg" width="48" height="48" alt="php" />
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-        <img src="./img/mysql-logo-svgrepo-com.svg" width="48" height="48" alt="mysql" />
-      <br>Mysql
-    </td>
+    
    
   </tr>
   <tr>
