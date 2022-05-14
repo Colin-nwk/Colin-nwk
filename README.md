@@ -44,6 +44,10 @@
 
 <table>
   <tr>
+     <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="48" height="48" alt="Javascript" />
+      <br>Javascript
+    </td>
     <td align="center" width="96">
         <img src="./img/react-svgrepo-com.svg" width="48" height="48" alt="react" />
       <br>React
@@ -80,10 +84,7 @@
         <img src="./img/tailwindcss-icon-svgrepo-com.svg" width="48" height="48" alt="tailwindcss" />
       <br>Tailwindcss
     </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="48" height="48" alt="Javascript" />
-      <br>Javascript
-    </td>
+   
     
    
   </tr>
@@ -97,8 +98,8 @@
       <br>Github
     </td>
      <td align="center" width="96">
-        <img src="./img/vscode-svgrepo-com.svg" width="48" height="48" alt="github" style="color:white" />
-      <br>Github
+        <img src="./img/vscode-svgrepo-com.svg" width="48" height="48" alt="vscode" style="color:white" />
+      <br>VSCode
     </td>
   </tr>
 </table>
