@@ -3,8 +3,7 @@
 
 <h3>I'm a self-taught ❤️‍🔥 passionate 💻 developer </h3>
 <p>💻 You can find me immersed in upskilling PHP, Javascript, Laravel, Livewire, React, and other areas.</h3>
-<p>🌱 I’m currently learning React Native CLI, EXPO CLI</p>
-<p>🌱 I’m currently learning FireBase </p>
+<p>🌱 I’m currently learning Nuxt, Vue </p>
 <p>👯 I’m looking to collaborate on any Interesting Project.</p>
 <p>⚡ I aim to create productive awareness about tech in people around me.</p>
 <br/>
